@@ -18,8 +18,8 @@
       "AdPlacement": {
         
         "AdMobBanner"         : "ca-app-pub-3940256099942544/6300978111",
-        "AdMobInterstitial"   : "ca-app-pub-3940256099942544/1033173712",
-        "AdMobOpenAd"         : "ca-app-pub-3940256099942544/9257395921",
+        "AdMobInterstitial"   : "",
+        "AdMobOpenAd"         : "",
         "AdMobNative"         : "ca-app-pub-3940256099942544/2247696110",
 
         "FacebookBanner"      : "IMG_16_9_APP_INSTALL#692961278482629_692963411815749",
@@ -71,11 +71,6 @@
   "Nature": [
     {
       "img": "https://images.unsplash.com/photo-1433086966358-54859d0ed716?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TmF0dXJlfGVufDB8MXwwfHx8Mg%3D%3D&auto=format&fit=crop&w=600&q=60",
-      "url": "",
-      "ad": "no"
-    },
-    {
-      "img": "https://images.unsplash.com/photo-1543876140-dc6979975b25?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
       "url": "",
       "ad": "no"
     },
@@ -193,6 +188,11 @@
     },
     {
       "img": "https://unsplash.com/photos/0EebGYVIBmA/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8OTR8fGFuaW1hbHxlbnwwfDF8fHwxNjk0NDU0MzkwfDI&force=true",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1543876140-dc6979975b25?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
       "url": "",
       "ad": "no"
     },
