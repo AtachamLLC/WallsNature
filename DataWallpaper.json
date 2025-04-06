@@ -7,8 +7,8 @@
         "⚠️Warning: Facebook does not support OpenAd."
       ],
       
-      "BannerNetwork"      : "facebook",
-      "InterstitialNetwork": "facebook",
+      "BannerNetwork"      : "admob",
+      "InterstitialNetwork": "admob",
       "NativeNetwork"      : "facebook",
       
       "OpenAdNetwork"      : "admob",
@@ -108,6 +108,96 @@
     },
     {
       "img": "https://images.unsplash.com/photo-1543876140-dc6979975b25?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1935&q=80",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images4.alphacoders.com/134/thumb-1920-1344100.png",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images7.alphacoders.com/411/thumb-1920-411820.jpg",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images5.alphacoders.com/133/thumb-1920-1337139.png",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images7.alphacoders.com/134/thumb-1920-1348015.png",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images2.alphacoders.com/134/thumb-1920-1348753.png",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images4.alphacoders.com/134/thumb-1920-1341428.png",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images8.alphacoders.com/134/thumb-1920-1346742.png",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images7.alphacoders.com/849/thumb-1920-849052.jpg",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images3.alphacoders.com/134/thumb-1920-1347855.png",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images2.alphacoders.com/134/thumb-1920-1346744.png",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images3.alphacoders.com/134/thumb-1920-1348345.jpeg",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images3.alphacoders.com/134/thumb-1920-1345394.png",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images8.alphacoders.com/133/thumb-1920-1339176.png",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images4.alphacoders.com/771/thumb-1920-771830.jpg",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images6.alphacoders.com/136/thumb-1920-1360632.png",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images6.alphacoders.com/476/thumb-1920-476288.jpg",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images8.alphacoders.com/552/thumb-1920-552632.jpg",
+      "url": "",
+      "ad": "no"
+    },
+    {
+      "img": "https://images2.alphacoders.com/114/thumb-1920-114872.jpg",
       "url": "",
       "ad": "no"
     }
